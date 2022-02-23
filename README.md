@@ -21,19 +21,27 @@ https://www.sans.org/white-papers/67/
 http://www.pentest-standard.org/index.php/Main_Page
 
 ## MSTG, OWASP Mobile Security Testing Guide
-https://github.com/OWASP/owasp-mstg#:~:text=About-,The%20Mobile%20Security%20Testing%20Guide%20(MSTG)%20is%20a%20comprehensive%20manual,Security%20Verification%20Standard%20(MASVS)
+https://owasp.org/www-project-mobile-security-testing-guide/
 
--) PCI DSS, Payment Card Industry Data Security Standard
+## PCI DSS, Payment Card Industry Data Security Standard
+EN: https://www.commerce.uwo.ca/pdf/PCI_DSS_v3-2-1.pdf
+DE: https://de.pcisecuritystandards.org/_onelink_/pcisecurity/en2de/minisite/en/docs/PCI_DSS_v3.pdf
 
--) ASVS, OWASP Application Security Verification Standard
+## ASVS, OWASP Application Security Verification Standard
+EN: https://owasp.org/www-pdf-archive/OWASP_Application_Security_Verification_Standard_4.0-en.pdf
 
--) OSCP, Offensive Security Certified Professional
+## OSCP, Offensive Security Certified Professional
+https://www.offensive-security.com/pwk-oscp/
 
--) OSWP, Offensive Security Wireless Professional
+## OSWP, Offensive Security Wireless Professional
+https://www.offensive-security.com/wifu-oswp/
 
--) OWASP Top 10
+## OWASP Top 10
+https://owasp.org/www-project-top-ten/
+Excercises: https://tryhackme.com/room/owasptop10
 
--) OWASP Mobile Top 10
+## OWASP Mobile Top 10
+https://owasp.org/www-project-mobile-top-10/
 
 -) OWASP API Top 10
 
